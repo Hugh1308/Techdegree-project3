@@ -26,7 +26,7 @@ header h1 {
 legend {
     padding: 20px;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .container {
@@ -172,7 +172,7 @@ fieldset {
         padding-top: 50px;
     }
     
-    
+
     .input-section {
         display: flex;
         flex-direction: row;
